@@ -1,0 +1,59 @@
+{
+  "_from": "cordova-plugin-ionic-webview-openblank",
+  "_id": "cordova-plugin-ionic-webview-openblank@0.0.5",
+  "_inBundle": false,
+  "_integrity": "sha512-s0iSkW1IdJ0rY2vN/R7qXCzpICR9nPnW66hYv9FqiyH80fNj0u+eKsG+qVnNFvA5lYYcAVzJaNW4w6kgklEDKg==",
+  "_location": "/cordova-plugin-ionic-webview-openblank",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-ionic-webview-openblank",
+    "name": "cordova-plugin-ionic-webview-openblank",
+    "escapedName": "cordova-plugin-ionic-webview-openblank",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-ionic-webview-openblank/-/cordova-plugin-ionic-webview-openblank-0.0.5.tgz",
+  "_shasum": "6e216b3ace560bb7e6f6281390ea0a4859627883",
+  "_spec": "cordova-plugin-ionic-webview-openblank",
+  "_where": "/Users/Youssef/Documents/workspaces/ts-mob/node_modules",
+  "author": {
+    "name": "Youssef Makboul"
+  },
+  "bugs": {
+    "url": "https://github.com/youssmak/cordova-plugin-ionic-webview-openblank/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-ionic-webview-openblank",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova WKWebView OpenBlank Plugin",
+  "homepage": "https://github.com/youssmak/cordova-plugin-ionic-webview-openblank#readme",
+  "keywords": [
+    "cordova",
+    "wkwebview",
+    "ionic",
+    "webview",
+    "iframe",
+    "openblank",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "license": "Apache 2.0",
+  "name": "cordova-plugin-ionic-webview-openblank",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youssmak/cordova-plugin-ionic-webview-openblank.git"
+  },
+  "version": "0.0.5"
+}

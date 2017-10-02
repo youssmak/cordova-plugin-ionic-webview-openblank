@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+        id="cordova-plugin-ionic-webview-openblank" version="0.0.2">
+    <name>OpenBlank</name>
+    <description>Cordova WKWebView OpenBlank Plugin</description>
+    <license>Apache 2.0</license>
+    <keywords>cordova, wkwebview, ionic, webview, iframe, openblank</keywords>
+    <platform name="ios">
+      <header-file src="src/ios/CDVWKWebViewUIDelegate+OpenBlank.h" />
+      <source-file src="src/ios/CDVWKWebViewUIDelegate+OpenBlank.m" />
+    </platform>
+    <dependency id="cordova-plugin-ionic-webview" version="^1.1.8" />
+</plugin>
