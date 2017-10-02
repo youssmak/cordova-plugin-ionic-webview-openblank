@@ -55,5 +55,5 @@
     "type": "git",
     "url": "git+https://github.com/youssmak/cordova-plugin-ionic-webview-openblank.git"
   },
-  "version": "0.0.5"
+  "version": "0.0.6"
 }
