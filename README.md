@@ -1,7 +1,7 @@
 # Cordova Plugin Ionic WebView OpenBlank
 
 ## Install
-cordova plugin add https://github.com/youssmak/cordova-plugin-ionic-webview-openblank
+cordova plugin add cordova-plugin-ionic-webview-openblank --save
 
 ## Info
 For security reasons, WKWebViews doesn't allow `window.open('https://google.com', '_blank')` to open. If it did it will take over the WKWebView. This plugin catches the request of `window.open+_blank` and sends the url to Safari.
