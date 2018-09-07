@@ -9,5 +9,5 @@
       <header-file src="src/ios/CDVWKWebViewUIDelegate+OpenBlank.h" />
       <source-file src="src/ios/CDVWKWebViewUIDelegate+OpenBlank.m" />
     </platform>
-    <dependency id="cordova-plugin-ionic-webview" version="^1.1.8" />
+    <dependency id="cordova-plugin-ionic-webview" version="^2.1.3" />
 </plugin>
